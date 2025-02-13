@@ -32,12 +32,6 @@ En las carpetas `images` y `models` encontraremos imágenes y modelos generados 
 
 Como acabamos de ver, hay mucha diferencia entre los primeros modelos y los últimos. Estos dan resultados muy distintos, siendo los últimos mucho más detallados. A continuación, veremos las 5 imágenes de prueba que se han creado al final de cada entrenamiento:
 
-Entrenamiento 1:
-
-## Resultados
-
-Como acabamos de ver, hay mucha diferencia entre los primeros modelos y los últimos. Estos dan resultados muy distintos, siendo los últimos mucho más detallados. A continuación, veremos las 5 imágenes de prueba que se han creado al final de cada entrenamiento:
-
 ### Entrenamiento 1
 
 | Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 | Imagen 5 |
