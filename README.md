@@ -10,12 +10,12 @@ En este proyecto, implementamos una *Red Generativa Adversarial (GAN)* para crea
 
 ## Estructura del Proyecto
 
-- `gan_prendas_Jairo_Andrades_Bueno.ipynb`: Cuaderno principal donde se implementa y entrena la GAN.
-- `images/`: Carpeta que contiene las imágenes generadas por la GAN.
-- `models/`: Carpeta que contiene los modelos generador y discriminador entrenados.
-- `docker-compose.yml`: Archivo de configuración para Docker Compose.
-- `Dockerfile`: Archivo de configuración para Docker.
-- `requirements.txt`: Archivo que lista las dependencias necesarias para ejecutar el proyecto.
+- [`gan_prendas_Jairo_Andrades_Bueno.ipynb`](gan_prendas_Jairo_Andrades_Bueno.ipynb): Cuaderno principal donde se implementa y entrena la GAN.
+- [`images/`](images/): Carpeta que contiene las imágenes generadas por la GAN.
+- [`models/`](models/): Carpeta que contiene los modelos generador y discriminador entrenados.
+- [`docker-compose.yml`](docker-compose.yml): Archivo de configuración para Docker Compose.
+- [`Dockerfile`](Dockerfile): Archivo de configuración para Docker.
+- [`requirements.txt`](requirements.txt): Archivo que lista las dependencias necesarias para ejecutar el proyecto.
 
 ## Entrenamientos
 
