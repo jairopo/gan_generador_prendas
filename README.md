@@ -1,5 +1,7 @@
 # GAN para Generar Imágenes de Prendas y Accesorios
 
+> Jairo Andrades Bueno
+
 Este repositorio contiene el código y los recursos necesarios para entrenar y generar imágenes de prendas de vestir y accesorios utilizando una Red Generativa Adversarial (GAN).
 
 ## Descripción
@@ -59,5 +61,8 @@ Como acabamos de ver, hay mucha diferencia entre los primeros modelos y los últ
 | Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 | Imagen 5 |
 |----------|----------|----------|----------|----------|
 | ![Imagen 1](images/image_0_12-02-2025-0012_50+175ep_70000imgs.png) | ![Imagen 2](images/image_1_12-02-2025-0012_50+175ep_70000imgs.png) | ![Imagen 3](images/image_2_12-02-2025-0012_50+175ep_70000imgs.png) | ![Imagen 4](images/image_3_12-02-2025-0012_50+175ep_70000imgs.png) | ![Imagen 5](images/image_4_12-02-2025-0012_50+175ep_70000imgs.png) |
+
+
+Aunque las imágenes sean tan pequeñas, al tener una resolución de 28x28, se puede apreciar una clara diferencia entre el primer modelo, que vagamente deja entrever las prendas de ropa y el último modelo, que genera imágenes en las que se puede apreciar la forma casi perfecta de la prenda, aunque la resolución siga sin estar al nivel de las originales.
 
 
